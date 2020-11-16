@@ -2,7 +2,9 @@
 
 Cura plugin which enables printing directly to the FlyingBear 3d printer and monitoring the progress
 
-Manager your FlyingBear printers via WIFI
+Manager your FlyingBear printers via WIFI.
+
+Forked from https://github.com/miblooming/JZ-TS24-2/tree/master/other/FlyingBear_TS_WIFI
 
 ## Support
 
